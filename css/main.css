@@ -1,0 +1,18 @@
+#map{
+  width: 100%;
+  height: 90vh;
+}
+
+input[type="text"]::-webkit-input-placeholder{
+    color: #fff;
+}
+
+.form-control[placeholder] {
+  color: #fff;
+}
+.form-control::-webkit-input-placeholder {
+  color: #fff;
+}
+.form-control:-moz-placeholder {
+  color: #fff;
+}
